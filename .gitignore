@@ -1,0 +1,6 @@
+venv
+.git
+.idea
+**.iml
+**.ini
+**/__pycache__/**
