@@ -22,7 +22,7 @@ Usage:
 ```
 
 ## Example
-Using this project to find results to station "Praterstern", run `./setup.sh Praterstern`:
+Using this project to find results to station "Praterstern", run `./start.sh Praterstern`:
 ```
 Search ÖBB Station ID for "Praterstern"...
 25 entries found!
